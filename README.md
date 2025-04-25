@@ -15,14 +15,14 @@ __`Not open to the public`__, therefore this code __`cannot`__ run on your compu
 
 Acknowledgements
 ---
-The journey has been very difficult, and I would like to thank my mentor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
+The journey has been very difficult, and I would like to thank my supervisor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
 Including but not limited to:
 
- * [Dr. Hu Peng](https://whuph.github.io/index.html)
- * [Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm)
- * [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html)
- * [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/) [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm)
-
+ __Supervisor__ * [Dr. Hu Peng](https://whuph.github.io/index.html)
+ __Research group__* [Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm), [BIMK of Anhui University](https://github.com/BIMK)
+ __Renowned scholars__* [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html), [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/), [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm)
+ __Useful links__*[QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
+ 
 Citation
 -----
 If you find our work useful in your research, please consider citing:
