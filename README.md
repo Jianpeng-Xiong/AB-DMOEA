@@ -17,8 +17,8 @@ Acknowledgements
 ---
 The journey has been very difficult, and I would like to thank my mentor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
 Including but not limited to:
-[Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm)
-[Dr.Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html)
+ *[Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm)
+ *[Dr.Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html)
 
 
 Citation
