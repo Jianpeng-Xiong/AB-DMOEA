@@ -24,11 +24,11 @@ Including but not limited to:
  
  __Renowned scholars__*  [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html), [Dr. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/), [Dr. Qingfu Zhang(CityU)](https://www.cs.cityu.edu.hk/~qzhan7/index.html)[Dr. Shouyong Jiang](https://chang88ye.github.io/homepage/), [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/), [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm), [Dr. Wei Li(JUST)](https://weilijxust.github.io/)
  
- __Useful links__*  [PlatEMO](https://github.com/BIMK/PlatEMO), [MATLAB](https://www.mathworks.com/products/matlab.html), [QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
+ __Useful links__*  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650224001597), [PlatEMO](https://github.com/BIMK/PlatEMO), [MATLAB](https://www.mathworks.com/products/matlab.html), [QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
  
 Citation
 -----
-If you find our work useful in your research, please consider citing:
+If you find our [work](https://www.sciencedirect.com/science/article/abs/pii/S2210650224001597) useful in your research, please consider citing:
 ```@article{PENG2024101621,
 title = {A dynamic multi-objective optimization evolutionary algorithm with adaptive boosting},
 journal = {Swarm and Evolutionary Computation},
