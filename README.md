@@ -7,6 +7,13 @@ This is my first academic paper, focusing on the field of dynamic multi-objectiv
 The improvement this paper has brought me far exceeds the significance of the article itself.
 If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com.
 
+Environment
+---
+The operating environment is based on Matlab2018b and above. 
+The platform we are using is adapted from Platemo v2.9. 
+# Not open to the public
+, therefore this code cannot run on your computer, for reference only.
+
 Citation
 -----
 If you find our work useful in your research, please consider citing:
