@@ -11,7 +11,7 @@ Environment
 ---
 The operating environment is based on Matlab2018b and above. 
 The platform we are using is adapted from Platemo v2.9. 
-'Not open to the public', therefore this code cannot run on your computer, for reference only.:upside_down_face:
+`Not open to the public`, therefore this code cannot run on your computer, for reference only.
 
 Citation
 -----
