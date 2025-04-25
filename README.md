@@ -11,7 +11,7 @@ Environment
 ---
 The operating environment is based on Matlab2018b and above. 
 The platform we are using is adapted from Platemo v2.9. 
-__Not open to the public__, therefore this code __cannot__ run on your computer, for reference only.
+__`Not open to the public`__, therefore this code __`cannot`__ run on your computer, for reference only.
 
 Citation
 -----
