@@ -18,9 +18,10 @@ Acknowledgements
 The journey has been very difficult, and I would like to thank my mentor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
 Including but not limited to:
 
+ * [Dr. Hu Peng](https://whuph.github.io/index.html)
  * [Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm)
- * [Dr.Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html)
-
+ * [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html)
+ * [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/) [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm)
 
 Citation
 -----
