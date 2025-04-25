@@ -20,9 +20,9 @@ Including but not limited to:
 
  __Supervisor__ *  [Dr. Hu Peng](https://whuph.github.io/index.html)
  
- __Research group__*  [Zhengzhou University Computational Intelligence Laboratory](https://www5.zzu.edu.cn/cilab/index.htm), [BIMK of Anhui University](https://github.com/BIMK)
+ __Research group__*  [CIL of Zhengzhou University ](https://www5.zzu.edu.cn/cilab/index.htm), [BIMK of Anhui University](https://github.com/BIMK), [ICRG of Jiangxi Normal University](https://xyzhoujx.github.io/index.html#/)), [CIL of Jiangxi University of Science and Technology](https://cilab.jxust.edu.cn/index.htm)
  
- __Renowned scholars__*  [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html), [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/), [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm)
+ __Renowned scholars__*  [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html), [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/), [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm), [Dr. Wei Li(JUST)](https://weilijxust.github.io/)
  
  __Useful links__*  [QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
  
