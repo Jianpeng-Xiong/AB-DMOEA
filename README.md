@@ -31,14 +31,14 @@ Including but not limited to:
 If you find our [work](https://www.sciencedirect.com/science/article/abs/pii/S2210650224001597) useful in your research, please consider citing:
 ```
 @article{PENG2024101621,
- title = {A dynamic multi-objective optimization evolutionary algorithm with adaptive boosting},
- journal = {Swarm and Evolutionary Computation},
- volume = {89},
- pages = {101621},
- year = {2024},
- issn = {2210-6502},
- doi = {https://doi.org/10.1016/j.swevo.2024.101621},
- url = {https://www.sciencedirect.com/science/article/pii/S2210650224001597},
- author = {Hu Peng and Jianpeng Xiong and Chen Pi and Xinyu Zhou and Zhijian Wu},
+  title = {A dynamic multi-objective optimization evolutionary algorithm with adaptive boosting},
+  journal = {Swarm and Evolutionary Computation},
+  volume = {89},
+  pages = {101621},
+  year = {2024},
+  issn = {2210-6502},
+  doi = {https://doi.org/10.1016/j.swevo.2024.101621},
+  url = {https://www.sciencedirect.com/science/article/pii/S2210650224001597},
+  author = {Hu Peng and Jianpeng Xiong and Chen Pi and Xinyu Zhou and Zhijian Wu},
 }
 
