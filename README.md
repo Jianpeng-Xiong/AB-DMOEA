@@ -5,7 +5,7 @@ A dynamic multi-objective optimization evolutionary algorithm with adaptive boos
 Welcome to my GitHub homepage, where my papers and code are available. 
 This is my first academic paper, focusing on the field of dynamic multi-objective optimization. After two and a half years, I went from being a research novice to being able to develop some of my own gadgets. 
 The improvement this paper has brought me far exceeds the significance of the article itself.
-If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com. 😇
+If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ-email💌:1972026766@qq.com. 😇
 
 🦫Environment
 ---
